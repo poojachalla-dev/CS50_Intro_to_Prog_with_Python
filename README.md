@@ -1,6 +1,6 @@
 # CS50's Introduction to Programming with Python 🐍
 
-> My solutions, notes, and practice work from **CS50's Introduction to Programming with Python** — offered by Harvard University via edX.
+> My solutions, notes, and practice work from **CS50's Introduction to Programming with Python** — offered by Harvard University.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Harvard](https://img.shields.io/badge/Harvard_University-A51C30?style=flat-square&logo=harvard&logoColor=white)
